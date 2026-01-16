@@ -15,4 +15,4 @@ Next ,we would like to have *italic*naxt if you want somthing**bold**,and ***bol
 - banana
 
 - To make a link you need [] and() for example [google] (https://www.google.ie)
-! [google] (https://chiikawa.fandom.com/wiki/Usagi?file=YahaUsagi.png)
+![google](https://chiikawa.fandom.com/wiki/Usagi?file=YahaUsagi.png)
